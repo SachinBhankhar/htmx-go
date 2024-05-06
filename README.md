@@ -1,1 +1,1 @@
-#htmx with go
+# htmx with go echo
